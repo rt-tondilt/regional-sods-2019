@@ -1,4 +1,4 @@
 developer_survey_2019
 .ipynb_checkpoints
 __pycache__
-.docx
+*.docx
